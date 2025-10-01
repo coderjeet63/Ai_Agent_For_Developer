@@ -19,7 +19,7 @@ app.listen(3000, () => {
     \"es6\",
     \"server\"
   ],
-  \"author\": \"Your Name\",
+  \"author\": \"Jitendra Sharma\",
   \"license\": \"ISC\",
   \"dependencies\": {
       \"express\": \"^4.18.2\"
